@@ -13,10 +13,11 @@ import com.example.android1.LAB2.Lab2;
 import com.example.android1.LAB3.Lab3;
 import com.example.android1.LAB4.Lab4Menu;
 import com.example.android1.LAB7.Lab7;
+import com.example.android1.thi.Activity;
 
 public class MainActivity extends AppCompatActivity {
 
-    Button ASM,btn2,btn3,btn4,btn7;
+    Button ASM,btn2,btn3,btn4,btn7,btnThi;
 
     Button btnBai3la;
 
@@ -30,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
         btn3=findViewById(R.id.lab3);
         btn4=findViewById(R.id.lab4);
         btn7=findViewById(R.id.lab7);
+        btnThi=findViewById(R.id.btnThi);
         btnBai3la=findViewById(R.id.btnBai3la);
 
         ASM.setOnClickListener(new View.OnClickListener() {
@@ -72,6 +74,13 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Intent intentlab = new Intent(MainActivity.this, Bai3la.class);
                 startActivity(intentlab);
+            }
+        });
+        btnThi.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intentThi = new Intent(MainActivity.this, Activity.class);
+                startActivity(intentThi);
             }
         });
     }

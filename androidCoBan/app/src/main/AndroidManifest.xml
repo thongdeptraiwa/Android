@@ -16,7 +16,7 @@
             android:name=".thi.Activity2"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".thi.Activity"
             android:exported="false" />
         <activity
             android:name=".LAB7.Lab7_intent2"
@@ -74,7 +74,7 @@
             android:name=".LAB4.Lab4B1A1"
             android:exported="false" />
         <activity
-            android:name=".thi.Activity"
+            android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
