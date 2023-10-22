@@ -1,0 +1,1628 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<meta content='Học trực tuyến cùng với những Giảng viên hàng đầu. Học online 24/7 - Tự tin làm chủ tương lai. Siêu thị bài giảng trực tuyến lớn nhất Việt Nam' name='description'>
+<meta content='1741718529393650' property='fb:app_id'>
+<meta content='SK0qZru3Bg6W9TYkJIbhXyKuNDwDvRZFDou4mfZROfo' name='google-site-verification'>
+<meta content='en_US' property='og:locale'>
+<meta content='https://www.facebook.com/Edumall.vn'>
+<meta content='https://static.edumall.vn/uploads/images/course-image.jpg' property='og:image'>
+<meta content='image/jpeg' property='og:image:type'>
+<meta content='600' property='og:image:width'>
+<meta content='315' property='og:image:height'>
+<link href='//cdn.jsdelivr.net/jquery.slick/1.5.9/slick.css' rel='stylesheet' type='text/css'>
+<!-- Start PAA and Web Push -->
+<script async='' src='//edumall.api.sociaplus.com/partner.js'></script>
+<!-- end -->
+<script src='//tracking.edumall.vn/client-api/js/spymaster.js' type='text/javascript'></script>
+<script>
+  Spymaster.setup("Edumall", "beta", "5b13a0c20e12666b520004d4");
+</script>
+<script>
+  var Reporter = (function() {
+    var isDefinedSpymaster = function() {
+      return "object" == typeof Spymaster
+    };
+  
+    return {
+      pageviewed: function() {
+        if (isDefinedSpymaster()) {
+          Spymaster.track({
+            category: 'U2',
+            behavior: 'pageview'
+          });
+        }
+      },
+      listenWindowEvent: function(eventName, functionName) {
+        if (window.addEventListener) {
+          console.log('addEventListener');
+          window.addEventListener(eventName, functionName);
+        } else if (window.attachEvent) {
+          console.log('attachEvent');
+          window.attachEvent("on" + eventName, functionName);
+        }
+      }
+    }
+  })();
+  Reporter.listenWindowEvent("load", Reporter.pageviewed);
+</script>
+
+<link rel="shortcut icon" type="image/x-icon" href="//static.edumall.vn/assets/favicon_edumall-03a2a1245d4614550daed65703cb432ee435322661ff5d972377e10159af8a99.png" />
+<title>Edumall</title>
+<link rel="stylesheet" media="all" href="//static.edumall.vn/assets/application-b52de667547dde4a42038a464cf16e673afd526e0b5bf17ff96473b00efe08dd.css" />
+<!-- = stylesheet_link_tag 'edumall_v3', media: 'all' -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+</script>
+<!-- Start of widget script -->
+<script>
+  function loadJsAsync(t,e){var n=document.createElement("script");n.type="text/javascript",n.src=t,n.addEventListener("load",function(t){e(null,t)},!1);var a=document.getElementsByTagName("head")[0];a.appendChild(n)}window.addEventListener("DOMContentLoaded",function(){loadJsAsync("https://webchat.caresoft.vn:8090/js/CsChat.js?v=2.0",function(){var t={domain:"cskh"};embedCsChat(t)})},!1);
+</script>
+<!-- End of widget script -->
+<script>
+  ga('create', 'UA-68038326-1', {'userId': "5b13a0c20e12666b520004d4"});
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+  
+  ga('create', 'UA-116786096-1', {'name': 'TrackingNo2', 'userId': "5b13a0c20e12666b520004d4"}); 
+  ga('TrackingNo2.send', 'pageview');
+</script>
+<script>
+  if (window.location.hash && window.location.hash == '#_=_') {
+      if (window.history && history.pushState) {
+          window.history.pushState("", document.title, window.location.pathname);
+      } else {
+          // Prevent scrolling by storing the page's current scroll offset
+          var scroll = {
+              top: document.body.scrollTop,
+              left: document.body.scrollLeft
+          };
+          window.location.hash = '';
+          // Restore the scroll offset, should be flicker free
+          document.body.scrollTop = scroll.top;
+          document.body.scrollLeft = scroll.left;
+      }
+  }
+</script>
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="qdX5Pueev10pdgzy/iky0n5iFzTRM808JJl2W3vgQQlfvwRoQnMN4qQESlXiNpmhteA8V++3uxE5VBYbn4i78g==" />
+</head>
+<body class='page_not_found template-404'>
+<noscript>
+<iframe height='0' src='//www.googletagmanager.com/ns.html?id=GTM-WKNRGCV' style='display:none;visibility:hidden' width='0'></iframe>
+</noscript>
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-WKNRGCV');
+</script>
+<div class='banner_crosssell' id='top_header'></div>
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<link rel="shortcut icon" type="image/x-icon" href="//static.edumall.vn/assets/favicon_edumall-03a2a1245d4614550daed65703cb432ee435322661ff5d972377e10159af8a99.png" />
+<title>Edumall</title>
+<meta content='Học trực tuyến cùng với những Giảng viên hàng đầu. Học online 24/7 - Tự tin làm chủ tương lai. Siêu thị bài giảng trực tuyến lớn nhất Việt Nam | EDUMALL.VN' name='description'>
+<link href='https://static.edumall.vn/404' rel='canonical'>
+<meta content='1741718529393650' property='fb:app_id'>
+<meta content='SK0qZru3Bg6W9TYkJIbhXyKuNDwDvRZFDou4mfZROfo' name='google-site-verification'>
+<meta content='en_US' property='og:locale'>
+<meta content='https://www.facebook.com/Edumall.vn'>
+<meta content='https://static.edumall.vn/uploads/images/course-image.jpg' property='og:image'>
+<meta content='image/jpeg' property='og:image:type'>
+<meta content='600' property='og:image:width'>
+<meta content='315' property='og:image:height'>
+<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport'>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
+<meta content='width=device-width' name='viewport'>
+<link href='//fonts.googleapis.com/icon?family=Material+Icons' rel='stylesheet'>
+<link href='//cdn.jsdelivr.net/jquery.slick/1.5.9/slick.css' rel='stylesheet' type='text/css'>
+<script src='//tracking.edumall.vn/client-api/js/spymaster.js' type='text/javascript'></script>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<script src='https://use.fontawesome.com/7d4fd39e0c.js'></script>
+<link rel="stylesheet" media="all" href="//static.edumall.vn/assets/home_edumall_v2-fbd5ea18f36eeb7f38342df0594e9dc89343312e84112ffcbc979fe1edd0b953.css" />
+<script>
+  function _showAllCourses(target) {
+    var height_px = $('body').hasClass('es-template') ? "590px" : "295px";
+    var wraper = $(target.closest('.block_courses')).find('.list-course-card');
+    var checkOpen = wraper.attr('data-open');
+    if ((typeof checkOpen == 'undefined') || (checkOpen == 'close')) {
+      $(target).html("Thu gọn <i class='fa fa-minus-circle'></i>");
+      wraper.css({"height":"auto","overflow":"visible"});
+      wraper.attr('data-open', 'open');
+    } else {
+      $(target).html("Xem tất cả <i class='fa fa-plus-circle'></i>");
+      wraper.css({"height": height_px,"overflow":"hidden"});
+      wraper.attr('data-open', 'close');
+    }
+    return false;
+  }
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+</script>
+<script>
+  ga('create', 'UA-68038326-1', {'userId': "5b13a0c20e12666b520004d4"});
+  ga('send', 'pageview');
+  ga('require', 'displayfeatures');
+  
+  ga('create', 'UA-116786096-1', {'name': 'TrackingNo2', 'userId': "5b13a0c20e12666b520004d4"}); 
+  ga('TrackingNo2.send', 'pageview');
+</script>
+<noscript>
+<iframe height='0' src='//www.googletagmanager.com/ns.html?id=GTM-WKNRGCV' style='display:none;visibility:hidden' width='0'></iframe>
+</noscript>
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-WKNRGCV');
+</script>
+<script>
+  if (window.location.hash && window.location.hash == '#_=_') {
+      if (window.history && history.pushState) {
+          window.history.pushState("", document.title, window.location.pathname);
+      } else {
+          // Prevent scrolling by storing the page's current scroll offset
+          var scroll = {
+              top: document.body.scrollTop,
+              left: document.body.scrollLeft
+          };
+          window.location.hash = '';
+          // Restore the scroll offset, should be flicker free
+          document.body.scrollTop = scroll.top;
+          document.body.scrollLeft = scroll.left;
+      }
+  }
+</script>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+</head>
+<body class='page_not_found template-404'>
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<!-- .csc_notice_top -->
+<!-- %h4 -->
+<!-- Liên hệ Chăm sóc khách hàng thứ 2 đến thứ 6 từ 09:00 đến 19:00 và thứ 7 từ 09:00 đến 12:00. Hỗ trợ ngoài giờ làm việc qua mục -->
+<!-- %a.btn{:href => '/faq'} -->
+<!-- Các câu hỏi thường gặp -->
+<!-- %a.close_csc_notice x -->
+<div class='main-header-v4'>
+<div class='container-fluid'>
+<div class='row main-header-v4--content'>
+<div class='col-xs col-sm col-md col-lg main-header-v4--content-mobile-menu'>
+<a href='#navLeft' id='navButton'>
+<div class='humburger' style='height:54px;width:54px;text-align:center;    vertical-align:middle;line-height: 54px;border-right: 1px solid #ccc;color: #d0d0d0;'>
+<i class='fa fa-ellipsis-v' style=' vertical-align: middle;line-height: 54px;'></i>
+</div>
+</a>
+</div>
+<div class='col-xs col-sm col-md col-lg main-header-v4--content-mobile-search'>
+<button class='btn btn-search small' id='show-form-search-v4'></button>
+</div>
+<div class='col-xs col-sm col-md col-lg main-header-v4--content-logo-icon-v4'>
+<a href='/'>
+<img alt='Logo Edumall' src='//static.edumall.vn/assets/logo_branding/logo_ngang_full-2f1fc30412218bed474aa39b6468079db0195cbd32cb1f215f6e4fae0ee0f688.svg'>
+</a>
+</div>
+<div class='col-xs col-sm col-md col-lg main-header-v4--content-c-header-left'>
+<div class='main-header-v4--content-c-header-left-topic-dropdown'>
+<div class='main-header-v4--content-c-header-left-topic-dropdown-content'>
+<div class='main-header-v4--content-c-header-left-topic-dropdown-content-img-icon'>
+<img alt='Logo' class='svg' src='//static.edumall.vn/assets/edumall_v4/icon/Danh_muc-b6b1c94e9874d1cdce5c6f013b9a5c9183173fe6d6573098c8051efa8921807d.svg'>
+</div>
+<span>Danh mục</span>
+</div>
+<div class='main-menu'>
+<ul style='list-style: none;padding-left: 0px'>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter' style='display: flex; align-items: center'>
+<div class='img_div' style='width:24px; height:24px; float:left; margin: 3px 0;margin-left: 14px; display: flex; justify-content: center;'>
+<img alt='' src='//static.edumall.vn/assets/category_home_page_v4/toan_bo-ac8d825bafd771f5902d2971bc3ad9b5d6eab28c5ab0a0c49ceec13e9dc7bec8.svg'>
+</div>
+<span style='margin-left:10px;font-size: 13px;font-family: Open Sans;line-height: 1.38;letter-spacing: -0.1px;text-align: left;flex:1;min-width: 1px;margin-right: 0;'>Tất cả các thể loại</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='text' href='/courses/filter?categories[]=luyen-thi' style='display: flex; align-items: center'>
+<div class='img_div' style='width:24px; height:24px; float:left; margin: 3px 0;margin-left: 14px; display: flex; justify-content: center;'>
+<img src='//static.edumall.vn/assets/category_home_page_v4/luyen_thi-ad8e7fe81262db6363ef6beb0d1bcdd62d85217802ff1ab40c0fe604b62e35eb.svg' style='color: #9b9b9b'>
+</div>
+<span style='font-size: 13px; margin-left:10px;line-height: 1.38;letter-spacing: -0.1px;text-align: left;flex:1;min-width: 1px;margin-right: 0;'>Luyện thi</span>
+<span style='float: right; padding-right: 10px; height: 30px;display: flex;justify-content: center; align-items: center;'>
+<i class='fa fa-angle-right' style='color: #9b9b9b'></i>
+</span>
+</a>
+<ul class='submenu' style='list-style: none;padding-left: 0px'>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=luyen-thi&amp;sub_categories[]=luyen-thi-chung-chi' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Luyện thi chứng chỉ</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=luyen-thi&amp;sub_categories[]=thi-dai-hoc' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Thi đại học</span>
+</a>
+</li>
+</ul>
+</li>
+<li style='padding:2px 0'>
+<a class='text' href='/courses/filter?categories[]=multimedia' style='display: flex; align-items: center'>
+<div class='img_div' style='width:24px; height:24px; float:left; margin: 3px 0;margin-left: 14px; display: flex; justify-content: center;'>
+<img src='//static.edumall.vn/assets/category_home_page_v4/multimedia-7eaed5843fa78666ba495bbe05f59d857e6d53306a823ea92abb9a4e8c82451d.svg' style='color: #9b9b9b'>
+</div>
+<span style='font-size: 13px; margin-left:10px;line-height: 1.38;letter-spacing: -0.1px;text-align: left;flex:1;min-width: 1px;margin-right: 0;'>Multimedia</span>
+<span style='float: right; padding-right: 10px; height: 30px;display: flex;justify-content: center; align-items: center;'>
+<i class='fa fa-angle-right' style='color: #9b9b9b'></i>
+</span>
+</a>
+<ul class='submenu' style='list-style: none;padding-left: 0px'>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=multimedia&amp;sub_categories[]=kien-thuc-nhiep-anh-co-ban' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Kiến thức nhiếp ảnh cơ bản</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=multimedia&amp;sub_categories[]=nhiep-anh-ky-thuat-so' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Nhiếp ảnh kỹ thuật số</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=multimedia&amp;sub_categories[]=cong-cu-chinh-sua-anh' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Công cụ chỉnh sửa ảnh</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=multimedia&amp;sub_categories[]=nhiep-anh-thuong-mai' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Nhiếp ảnh thương mại</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=multimedia&amp;sub_categories[]=bien-tap-video' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Biên tập video</span>
+</a>
+</li>
+</ul>
+</li>
+<li style='padding:2px 0'>
+<a class='text' href='/courses/filter?categories[]=phat-trien-ca-nhan' style='display: flex; align-items: center'>
+<div class='img_div' style='width:24px; height:24px; float:left; margin: 3px 0;margin-left: 14px; display: flex; justify-content: center;'>
+<img src='//static.edumall.vn/assets/category_home_page_v4/phat_trien_ban_than-afcfcf8b53b59136cf6e96c37a486edebb1cfc99466c665cc323db09a3a0a152.svg' style='color: #9b9b9b'>
+</div>
+<span style='font-size: 13px; margin-left:10px;line-height: 1.38;letter-spacing: -0.1px;text-align: left;flex:1;min-width: 1px;margin-right: 0;'>Phát triển cá nhân</span>
+<span style='float: right; padding-right: 10px; height: 30px;display: flex;justify-content: center; align-items: center;'>
+<i class='fa fa-angle-right' style='color: #9b9b9b'></i>
+</span>
+</a>
+<ul class='submenu' style='list-style: none;padding-left: 0px'>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=phat-trien-ca-nhan&amp;sub_categories[]=thay-doi-ban-than' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Thay đổi bản thân</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=phat-trien-ca-nhan&amp;sub_categories[]=phat-trien-su-nghiep' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Phát triển sự nghiệp</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=phat-trien-ca-nhan&amp;sub_categories[]=sang-tao' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Sáng tạo</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=phat-trien-ca-nhan&amp;sub_categories[]=song-hanh-phuc' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Sống hạnh phúc</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=phat-trien-ca-nhan&amp;sub_categories[]=ren-luyen-tri-nho' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Rèn luyện trí nhớ</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=phat-trien-ca-nhan&amp;sub_categories[]=kha-nang-lanh-dao' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Khả năng lãnh đạo</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=phat-trien-ca-nhan&amp;sub_categories[]=tao-dong-luc' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Tạo động lực</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=phat-trien-ca-nhan&amp;sub_categories[]=kiem-soat-cang-thang' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Kiểm soát căng thẳng</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=phat-trien-ca-nhan&amp;sub_categories[]=ren-luyen-tu-tin' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Rèn luyện tự tin</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=phat-trien-ca-nhan&amp;sub_categories[]=tang-hieu-qua-cong-viec' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Tăng hiệu quả công việc</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=phat-trien-ca-nhan&amp;sub_categories[]=tai-chinh-ca-nhan' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Tài chính cá nhân</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=phat-trien-ca-nhan&amp;sub_categories[]=xay-dung-thuong-hieu-ca-nhan' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Xây dựng thương hiệu cá nhân</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=phat-trien-ca-nhan&amp;sub_categories[]=ky-nang-tao-anh-huong' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Kỹ năng tạo ảnh hưởng</span>
+</a>
+</li>
+</ul>
+</li>
+<li style='padding:2px 0'>
+<a class='text' href='/courses/filter?categories[]=tin-hoc-van-phong' style='display: flex; align-items: center'>
+<div class='img_div' style='width:24px; height:24px; float:left; margin: 3px 0;margin-left: 14px; display: flex; justify-content: center;'>
+<img src='//static.edumall.vn/assets/category_home_page_v4/tin_hoc_van_phong-2db8505ff079b71004e3126a6805329ed92cc17ff5ab61049387ff979d280252.svg' style='color: #9b9b9b'>
+</div>
+<span style='font-size: 13px; margin-left:10px;line-height: 1.38;letter-spacing: -0.1px;text-align: left;flex:1;min-width: 1px;margin-right: 0;'>Tin học văn phòng</span>
+<span style='float: right; padding-right: 10px; height: 30px;display: flex;justify-content: center; align-items: center;'>
+<i class='fa fa-angle-right' style='color: #9b9b9b'></i>
+</span>
+</a>
+<ul class='submenu' style='list-style: none;padding-left: 0px'>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=tin-hoc-van-phong&amp;sub_categories[]=soan-thao-van-ban' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Soạn thảo văn bản</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=tin-hoc-van-phong&amp;sub_categories[]=phan-mem-ke-toan' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Phần mềm Kế toán</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=tin-hoc-van-phong&amp;sub_categories[]=phan-mem-trinh-chieu' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Phần mềm trình chiếu</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=tin-hoc-van-phong&amp;sub_categories[]=pham-mem-quan-ly-du-lieu' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Phầm mềm quản lý dữ liệu</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=tin-hoc-van-phong&amp;sub_categories[]=he-dieu-hanh' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Hệ điều hành</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=tin-hoc-van-phong&amp;sub_categories[]=e-learning' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>E-learning</span>
+</a>
+</li>
+</ul>
+</li>
+<li style='padding:2px 0'>
+<a class='text' href='/courses/filter?categories[]=am-nhac' style='display: flex; align-items: center'>
+<div class='img_div' style='width:24px; height:24px; float:left; margin: 3px 0;margin-left: 14px; display: flex; justify-content: center;'>
+<img src='//static.edumall.vn/assets/category_home_page_v4/am_nhac-49b0f084d575703171920e6df090f11c727d1dc34d67750ea54f7d48d8303f8c.svg' style='color: #9b9b9b'>
+</div>
+<span style='font-size: 13px; margin-left:10px;line-height: 1.38;letter-spacing: -0.1px;text-align: left;flex:1;min-width: 1px;margin-right: 0;'>Âm nhạc</span>
+<span style='float: right; padding-right: 10px; height: 30px;display: flex;justify-content: center; align-items: center;'>
+<i class='fa fa-angle-right' style='color: #9b9b9b'></i>
+</span>
+</a>
+<ul class='submenu' style='list-style: none;padding-left: 0px'>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=am-nhac&amp;sub_categories[]=nhac-cu' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Nhạc cụ</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=am-nhac&amp;sub_categories[]=san-xuat-am-nhac' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Sản xuất âm nhạc</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=am-nhac&amp;sub_categories[]=luyen-thanh' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Luyện thanh</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=am-nhac&amp;sub_categories[]=ky-thuat-am-nhac' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Kỹ thuật âm nhạc</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=am-nhac&amp;sub_categories[]=phan-mem-am-nhac' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Phần mềm âm nhạc</span>
+</a>
+</li>
+</ul>
+</li>
+<li style='padding:2px 0'>
+<a class='text' href='/courses/filter?categories[]=marketing' style='display: flex; align-items: center'>
+<div class='img_div' style='width:24px; height:24px; float:left; margin: 3px 0;margin-left: 14px; display: flex; justify-content: center;'>
+<img src='//static.edumall.vn/assets/category_home_page_v4/marketing-e38c3ddf4edb6f47872fd08f76fa99cfad60a51653b339e56a7782113e9d1c0f.svg' style='color: #9b9b9b'>
+</div>
+<span style='font-size: 13px; margin-left:10px;line-height: 1.38;letter-spacing: -0.1px;text-align: left;flex:1;min-width: 1px;margin-right: 0;'>Marketing</span>
+<span style='float: right; padding-right: 10px; height: 30px;display: flex;justify-content: center; align-items: center;'>
+<i class='fa fa-angle-right' style='color: #9b9b9b'></i>
+</span>
+</a>
+<ul class='submenu' style='list-style: none;padding-left: 0px'>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=marketing&amp;sub_categories[]=digital--marketing' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Digital- marketing</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=marketing&amp;sub_categories[]=seo' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>SEO</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=marketing&amp;sub_categories[]=social-marketing' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Social marketing</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=marketing&amp;sub_categories[]=branding' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Branding</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=marketing&amp;sub_categories[]=kien-thuc-co-ban-marketing' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Kiến thức cơ bản Marketing</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=marketing&amp;sub_categories[]=phan-tich-va-tu-dong-hoa' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Phân tích và tự động hóa</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=marketing&amp;sub_categories[]=quan-he-cong-chung' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Quan hệ công chúng</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=marketing&amp;sub_categories[]=quang-cao' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Quảng cáo</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=marketing&amp;sub_categories[]=video-va-mobile-marketing' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Video và mobile Marketing</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=marketing&amp;sub_categories[]=content-marketing' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Content marketing</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=marketing&amp;sub_categories[]=marketing-truyen-thong' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Marketing truyền thống</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=marketing&amp;sub_categories[]=tiep-thi-lien-ket' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Tiếp thị liên kết</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=marketing&amp;sub_categories[]=viral-marketing' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Viral marketing</span>
+</a>
+</li>
+</ul>
+</li>
+<li style='padding:2px 0'>
+<a class='text' href='/courses/filter?categories[]=life-style' style='display: flex; align-items: center'>
+<div class='img_div' style='width:24px; height:24px; float:left; margin: 3px 0;margin-left: 14px; display: flex; justify-content: center;'>
+<img src='//static.edumall.vn/assets/category_home_page_v4/life_style-e0fa71a96c02232da4c9b5a38c0bd6c878f6673c98870b36ac3dda1a9fa0c713.svg' style='color: #9b9b9b'>
+</div>
+<span style='font-size: 13px; margin-left:10px;line-height: 1.38;letter-spacing: -0.1px;text-align: left;flex:1;min-width: 1px;margin-right: 0;'>Life style</span>
+<span style='float: right; padding-right: 10px; height: 30px;display: flex;justify-content: center; align-items: center;'>
+<i class='fa fa-angle-right' style='color: #9b9b9b'></i>
+</span>
+</a>
+<ul class='submenu' style='list-style: none;padding-left: 0px'>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=life-style&amp;sub_categories[]=do-handmade' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Đồ Handmade</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=life-style&amp;sub_categories[]=lam-dep' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Làm đẹp</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=life-style&amp;sub_categories[]=am-thuc' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Ẩm thực</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=life-style&amp;sub_categories[]=giai-tri' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Giải trí</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=life-style&amp;sub_categories[]=khong-gian-song' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Không gian sống</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=life-style&amp;sub_categories[]=thu-cung' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Thú cưng</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=life-style&amp;sub_categories[]=du-lich' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Du lịch</span>
+</a>
+</li>
+</ul>
+</li>
+<li style='padding:2px 0'>
+<a class='text' href='/courses/filter?categories[]=ngoai-ngu' style='display: flex; align-items: center'>
+<div class='img_div' style='width:24px; height:24px; float:left; margin: 3px 0;margin-left: 14px; display: flex; justify-content: center;'>
+<img src='//static.edumall.vn/assets/category_home_page_v4/ngoai_ngu-591319186a001f52f44987300f8729083672af82fe522da5bb2680eb0fea5d36.svg' style='color: #9b9b9b'>
+</div>
+<span style='font-size: 13px; margin-left:10px;line-height: 1.38;letter-spacing: -0.1px;text-align: left;flex:1;min-width: 1px;margin-right: 0;'>Ngoại ngữ</span>
+<span style='float: right; padding-right: 10px; height: 30px;display: flex;justify-content: center; align-items: center;'>
+<i class='fa fa-angle-right' style='color: #9b9b9b'></i>
+</span>
+</a>
+<ul class='submenu' style='list-style: none;padding-left: 0px'>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=ngoai-ngu&amp;sub_categories[]=tieng-anh' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Tiếng Anh</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=ngoai-ngu&amp;sub_categories[]=tieng-han' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Tiếng Hàn</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=ngoai-ngu&amp;sub_categories[]=tieng-duc' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Tiếng Đức</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=ngoai-ngu&amp;sub_categories[]=tieng-phap' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Tiếng Pháp</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=ngoai-ngu&amp;sub_categories[]=tieng-nhat' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Tiếng Nhật</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=ngoai-ngu&amp;sub_categories[]=tieng-trung' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Tiếng Trung</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=ngoai-ngu&amp;sub_categories[]=tieng-viet' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Tiếng Việt</span>
+</a>
+</li>
+</ul>
+</li>
+<li style='padding:2px 0'>
+<a class='text' href='/courses/filter?categories[]=cong-nghe-thong-tin' style='display: flex; align-items: center'>
+<div class='img_div' style='width:24px; height:24px; float:left; margin: 3px 0;margin-left: 14px; display: flex; justify-content: center;'>
+<img src='//static.edumall.vn/assets/category_home_page_v4/cong_nghe_thong_tin-4f1d660276d095c3db46df7da7fdafb68cf35ad28f4f6283a98c9e1df144d24a.svg' style='color: #9b9b9b'>
+</div>
+<span style='font-size: 13px; margin-left:10px;line-height: 1.38;letter-spacing: -0.1px;text-align: left;flex:1;min-width: 1px;margin-right: 0;'>Công nghệ thông tin</span>
+<span style='float: right; padding-right: 10px; height: 30px;display: flex;justify-content: center; align-items: center;'>
+<i class='fa fa-angle-right' style='color: #9b9b9b'></i>
+</span>
+</a>
+<ul class='submenu' style='list-style: none;padding-left: 0px'>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=cong-nghe-thong-tin&amp;sub_categories[]=chung-chi-it' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Chứng chỉ IT</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=cong-nghe-thong-tin&amp;sub_categories[]=an-ninh-mang' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>An ninh mạng</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=cong-nghe-thong-tin&amp;sub_categories[]=thiet-bi-dien-tu' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Thiết bị điện tử</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=cong-nghe-thong-tin&amp;sub_categories[]=van-hanh-he-thong' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Vận hành hệ thống</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=cong-nghe-thong-tin&amp;sub_categories[]=co-so-du-lieu' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Cơ sở dữ liệu</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=cong-nghe-thong-tin&amp;sub_categories[]=cong-cu-lap-trinh' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Công cụ lập trình</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=cong-nghe-thong-tin&amp;sub_categories[]=thuong-mai-dien-tu' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Thương mại điện tử</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=cong-nghe-thong-tin&amp;sub_categories[]=ung-dung-di-dong' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Ứng dụng di động</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=cong-nghe-thong-tin&amp;sub_categories[]=ngon-ngu-lap-trinh' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Ngôn ngữ lập trình</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=cong-nghe-thong-tin&amp;sub_categories[]=software-engineering' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Software-engineering</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=cong-nghe-thong-tin&amp;sub_categories[]=phat-trien-web' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Phát triển web</span>
+</a>
+</li>
+</ul>
+</li>
+<li style='padding:2px 0'>
+<a class='text' href='/courses/filter?categories[]=the-thao-va-suc-khoe' style='display: flex; align-items: center'>
+<div class='img_div' style='width:24px; height:24px; float:left; margin: 3px 0;margin-left: 14px; display: flex; justify-content: center;'>
+<img src='//static.edumall.vn/assets/category_home_page_v4/suc_khoe_the thao-efa12a8f8ceb7e46e9c4c23c249ee824aa60e0a3389087b5ecc9a49bd52f6ccd.svg' style='color: #9b9b9b'>
+</div>
+<span style='font-size: 13px; margin-left:10px;line-height: 1.38;letter-spacing: -0.1px;text-align: left;flex:1;min-width: 1px;margin-right: 0;'>Thể thao và sức khỏe</span>
+<span style='float: right; padding-right: 10px; height: 30px;display: flex;justify-content: center; align-items: center;'>
+<i class='fa fa-angle-right' style='color: #9b9b9b'></i>
+</span>
+</a>
+<ul class='submenu' style='list-style: none;padding-left: 0px'>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=the-thao-va-suc-khoe&amp;sub_categories[]=fitness' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Fitness</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=the-thao-va-suc-khoe&amp;sub_categories[]=dance' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Dance</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=the-thao-va-suc-khoe&amp;sub_categories[]=an-kieng' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Ăn kiêng</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=the-thao-va-suc-khoe&amp;sub_categories[]=suc-khoe' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Sức khỏe</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=the-thao-va-suc-khoe&amp;sub_categories[]=thien' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Thiền</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=the-thao-va-suc-khoe&amp;sub_categories[]=dinh-duong' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Dinh dưỡng</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=the-thao-va-suc-khoe&amp;sub_categories[]=ky-nang-tu-ve' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Kỹ năng tự vệ</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=the-thao-va-suc-khoe&amp;sub_categories[]=the-thao' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Thể thao</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=the-thao-va-suc-khoe&amp;sub_categories[]=yoga' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Yoga</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=the-thao-va-suc-khoe&amp;sub_categories[]=suc-khoe-tinh-than' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Sức khỏe tinh thần</span>
+</a>
+</li>
+</ul>
+</li>
+<li style='padding:2px 0'>
+<a class='text' href='/courses/filter?categories[]=thiet-ke' style='display: flex; align-items: center'>
+<div class='img_div' style='width:24px; height:24px; float:left; margin: 3px 0;margin-left: 14px; display: flex; justify-content: center;'>
+<img src='//static.edumall.vn/assets/category_home_page_v4/thiet_ke-83b30e64168d8cfb7067446e33de14b301df3af24c4fb455e21c6f97a96b0d29.svg' style='color: #9b9b9b'>
+</div>
+<span style='font-size: 13px; margin-left:10px;line-height: 1.38;letter-spacing: -0.1px;text-align: left;flex:1;min-width: 1px;margin-right: 0;'>Thiết kế</span>
+<span style='float: right; padding-right: 10px; height: 30px;display: flex;justify-content: center; align-items: center;'>
+<i class='fa fa-angle-right' style='color: #9b9b9b'></i>
+</span>
+</a>
+<ul class='submenu' style='list-style: none;padding-left: 0px'>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=thiet-ke&amp;sub_categories[]=3d-va-animation' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>3D và Animation</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=thiet-ke&amp;sub_categories[]=kien-truc' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Kiến trúc</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=thiet-ke&amp;sub_categories[]=thiet-ke-web' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Thiết kế web</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=thiet-ke&amp;sub_categories[]=tu-duy-thiet-ke' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Tư duy thiết kế</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=thiet-ke&amp;sub_categories[]=phan-mem-thiet-ke' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Phần mềm thiết kế</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=thiet-ke&amp;sub_categories[]=thiet-ke-thoi-trang' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Thiết kế thời trang</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=thiet-ke&amp;sub_categories[]=thiet-ke-do-hoa' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Thiết kế đồ họa</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=thiet-ke&amp;sub_categories[]=thiet-ke-game' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Thiết kế game</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=thiet-ke&amp;sub_categories[]=thiet-ke-noi-that' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Thiết kế nội thất</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=thiet-ke&amp;sub_categories[]=ui-ux' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>UI/UX</span>
+</a>
+</li>
+</ul>
+</li>
+<li style='padding:2px 0'>
+<a class='text' href='/courses/filter?categories[]=kinh-doanh-khoi-nghiep' style='display: flex; align-items: center'>
+<div class='img_div' style='width:24px; height:24px; float:left; margin: 3px 0;margin-left: 14px; display: flex; justify-content: center;'>
+<img src='//static.edumall.vn/assets/category_home_page_v4/kinh_doanh_khoi_nghiep-9eac5caac3172edbc0bb8724ca9fd2968eb350afa87fc542b619d08280b55d76.svg' style='color: #9b9b9b'>
+</div>
+<span style='font-size: 13px; margin-left:10px;line-height: 1.38;letter-spacing: -0.1px;text-align: left;flex:1;min-width: 1px;margin-right: 0;'>Kinh doanh khởi nghiệp</span>
+<span style='float: right; padding-right: 10px; height: 30px;display: flex;justify-content: center; align-items: center;'>
+<i class='fa fa-angle-right' style='color: #9b9b9b'></i>
+</span>
+</a>
+<ul class='submenu' style='list-style: none;padding-left: 0px'>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=kinh-doanh-khoi-nghiep&amp;sub_categories[]=dau-tu' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Đầu tư</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=kinh-doanh-khoi-nghiep&amp;sub_categories[]=bat-dong-san' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Bất động sản</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=kinh-doanh-khoi-nghiep&amp;sub_categories[]=nhan-luc' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Nhân lực</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=kinh-doanh-khoi-nghiep&amp;sub_categories[]=kinh-doanh-tai-nha' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Kinh doanh tại nhà</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=kinh-doanh-khoi-nghiep&amp;sub_categories[]=phan-tich-kinh-doanh' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Phân tích kinh doanh</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=kinh-doanh-khoi-nghiep&amp;sub_categories[]=luat-kinh-doanh' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Luật kinh doanh</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=kinh-doanh-khoi-nghiep&amp;sub_categories[]=quan-ly-du-an' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Quản lý dự án</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=kinh-doanh-khoi-nghiep&amp;sub_categories[]=van-hanh-doanh-nghiep' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Vận hành doanh nghiệp</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=kinh-doanh-khoi-nghiep&amp;sub_categories[]=chien-luoc-kinh-doanh' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Chiến lược kinh doanh</span>
+</a>
+</li>
+</ul>
+</li>
+<li style='padding:2px 0'>
+<a class='text' href='/courses/filter?categories[]=hoc-thuat' style='display: flex; align-items: center'>
+<div class='img_div' style='width:24px; height:24px; float:left; margin: 3px 0;margin-left: 14px; display: flex; justify-content: center;'>
+<img src='//static.edumall.vn/assets/category_home_page_v4/hoc_thuat-fd01158a676b47e1997ef8caaa0c7836afc8da849a4726980b57b75dc1875a4d.svg' style='color: #9b9b9b'>
+</div>
+<span style='font-size: 13px; margin-left:10px;line-height: 1.38;letter-spacing: -0.1px;text-align: left;flex:1;min-width: 1px;margin-right: 0;'>Học thuật</span>
+<span style='float: right; padding-right: 10px; height: 30px;display: flex;justify-content: center; align-items: center;'>
+<i class='fa fa-angle-right' style='color: #9b9b9b'></i>
+</span>
+</a>
+<ul class='submenu' style='list-style: none;padding-left: 0px'>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=hoc-thuat&amp;sub_categories[]=ke-toan' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Kế toán</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=hoc-thuat&amp;sub_categories[]=luat-hoc' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Luật học</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=hoc-thuat&amp;sub_categories[]=khoa-hoc-xa-hoi' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Khoa học xã hội</span>
+</a>
+</li>
+</ul>
+</li>
+<li style='padding:2px 0'>
+<a class='text' href='/courses/filter?categories[]=nuoi-day-con' style='display: flex; align-items: center'>
+<div class='img_div' style='width:24px; height:24px; float:left; margin: 3px 0;margin-left: 14px; display: flex; justify-content: center;'>
+<img src='//static.edumall.vn/assets/category_home_page_v4/nuoi_day_con-f1d57f3af2baf101e35a37b96a83dfc6c75e4ad5c60e2003853520ee96bf43dc.svg' style='color: #9b9b9b'>
+</div>
+<span style='font-size: 13px; margin-left:10px;line-height: 1.38;letter-spacing: -0.1px;text-align: left;flex:1;min-width: 1px;margin-right: 0;'>Nuôi dạy con</span>
+<span style='float: right; padding-right: 10px; height: 30px;display: flex;justify-content: center; align-items: center;'>
+<i class='fa fa-angle-right' style='color: #9b9b9b'></i>
+</span>
+</a>
+<ul class='submenu' style='list-style: none;padding-left: 0px'>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=nuoi-day-con&amp;sub_categories[]=giao-duc-gioi-tinh' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Giáo dục giới tính</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=nuoi-day-con&amp;sub_categories[]=dinh-duong-cho-con' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Dinh dưỡng cho con</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=nuoi-day-con&amp;sub_categories[]=phuong-phap-day-con' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Phương pháp dạy con</span>
+</a>
+</li>
+</ul>
+</li>
+<li style='padding:2px 0'>
+<a class='text' href='/courses/filter?categories[]=phong-thuy-nhan-tuong-hoc' style='display: flex; align-items: center'>
+<div class='img_div' style='width:24px; height:24px; float:left; margin: 3px 0;margin-left: 14px; display: flex; justify-content: center;'>
+<img src='//static.edumall.vn/assets/category_home_page_v4/phong_thuy-ac4914f5c4a6b23f7e2cd2376e1727cd4aca0e6999974644f77458c144af2118.svg' style='color: #9b9b9b'>
+</div>
+<span style='font-size: 13px; margin-left:10px;line-height: 1.38;letter-spacing: -0.1px;text-align: left;flex:1;min-width: 1px;margin-right: 0;'>Phong thủy/Nhân tướng học</span>
+<span style='float: right; padding-right: 10px; height: 30px;display: flex;justify-content: center; align-items: center;'>
+<i class='fa fa-angle-right' style='color: #9b9b9b'></i>
+</span>
+</a>
+<ul class='submenu' style='list-style: none;padding-left: 0px'>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=phong-thuy-nhan-tuong-hoc&amp;sub_categories[]=phong-thuy' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Phong thủy</span>
+</a>
+</li>
+<li style='padding:2px 0'>
+<a class='gtm_ddcat_all text' href='/courses/filter?categories[]=phong-thuy-nhan-tuong-hoc&amp;sub_categories[]=nhan-tuong-hoc' style='display: flex; align-items: center'>
+<span style='margin-left:10px; font-size: 13px; height:30px;display: flex; align-items: center; line-height: 1.38;letter-spacing: -0.1px;text-align: left;margin-left: 14px;flex:1;min-width: 1px;margin-right: 0;'>Nhân tướng học</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class='col-xs col-sm col-md col-lg main-header-v4--content-c-header-search'>
+<div class='main-header-v4--content-c-header-search-content'>
+<form action='/search' autocomplete='off' class='form-search' method='GET'>
+<button class='btn btn-search small' style='width: 18px; height: 18px; margin-right:9.6px' type='submit'></button>
+<input class='gtm_search_bar search-bar' name='q' placeholder='Tìm kiếm khóa học ...' style='font-family:Open Sans;' type='text'>
+</form>
+</div>
+</div>
+<div class='col-xs col-sm col-md col-lg main-header-v4--content-c-header-courses-activation'>
+<div class='main-header-v4--content-c-header-courses-activation--content'>
+<a href='/new-cod/activate' target='_blank'>
+<button class='btn btn-activation'>
+<div class='img_div' style='width:24px; height:24px;float:left;margin-right:10px;display: flex; justify-content: center;'>
+<img src='//static.edumall.vn/assets/category_home_page_v4/unlock_icon-9eee83c34835d02c76d6cbcfb75fa5112989935533ccec9114bebe14c4e69026.svg' style='color: #4a4a4a;'>
+</div>
+<span style='color: #464646;font-family: Open Sans;'>Kích hoạt khoá học</span>
+</button>
+</a>
+</div>
+</div>
+<div class='col-xs col-sm col-md col-lg main-header-v4--content-c-header-courses-cart'>
+<div class='btn-group cart-notification-dropdown'>
+<div aria-expanded='false' class='dropdown-toggle cart-dropdown-button' data-toggle='dropdown' type='button'>
+<div class='cart-notification'>
+<div class='cart-notification-button'>
+<div class='empty navbar-shopping'></div>
+<span class='badge cart_count'></span>
+</div>
+</div>
+</div>
+<div aria-labelledby='dropdownNotification' class='cart-dropdown-notification dropdown-menu empty'>
+<div class='title'></div>
+<div class='row no-margin notice'></div>
+<div class='empty items no-margin row'>
+</div>
+<img class="cart_emty_icon" src="//static.edumall.vn/assets/edumall_v3/cart_emty-3cd5b6ed6f7ecb160336750d7a7d9db9e1eb246173c17047b26802654940b1bc.svg" alt="Cart emty 3cd5b6ed6f7ecb160336750d7a7d9db9e1eb246173c17047b26802654940b1bc" />
+<h4 class='emty-carts-notice'>Bạn chưa có khoá học nào trong giỏ hàng</h4>
+</div>
+</div>
+
+</div>
+<div class='col-xs col-sm col-md col-lg main-header-v4--content-c-header-courses-notification'>
+<div class='btn-group notification-dropdown' style='display: flex;'>
+<div aria-expanded='false' class='dropdown-toggle read-noti' data-toggle='dropdown' type='button'>
+<div class='notification'>
+<div class='notification-button'>
+<span class='badge noti-count'>2</span>
+</div>
+</div>
+</div>
+<div aria-labelledby='dropdownNotification' class='dropdown-menu dropdown-notification'>
+<h5 class='title'>Thông báo</h5>
+<div class='noti-mask' id='flux'>
+<ul class='notifications-container'>
+<li class='notification-list'>
+<a class='notification-container' href='https://bit.ly/2J6tkPS' target='_blank'>
+<img class="avatar" src="//static.edumall.vn/assets/icon-user-4345f5dc0b34a1e6d05748a0a2e0181a8d84fe4c482b3403e7fb1dd343e31721.png" alt="Icon user 4345f5dc0b34a1e6d05748a0a2e0181a8d84fe4c482b3403e7fb1dd343e31721" />
+<div class='notification-content'>
+<strong>
+Edumall
+</strong>
+<span>
+<span class='text'>Đừng bỏ lỡ Ipad gen 5 32GB nhé. Mua trên 3 khoá được tham gia quay số trúng Ipad Gen5, giảm luôn 50% học phí và tặng voucher 200K. Săn Ipad ngay: https://bit.ly/2J6tkPS</span>
+</span>
+<h5 class='time'>
+<i class='fa fa-clock-o'></i>
+      <span>13 tháng 07 lúc 16:13</span>
+</h5>
+</div>
+</a>
+</li>
+<li class='notification-list'>
+<a class='notification-container' href='http://bit.ly/2J6tkPS' target='_blank'>
+<img class="avatar" src="//static.edumall.vn/assets/icon-user-4345f5dc0b34a1e6d05748a0a2e0181a8d84fe4c482b3403e7fb1dd343e31721.png" alt="Icon user 4345f5dc0b34a1e6d05748a0a2e0181a8d84fe4c482b3403e7fb1dd343e31721" />
+<div class='notification-content'>
+<strong>
+Edumall
+</strong>
+<span>
+<span class='text'>MƯA SALE MÙA HÈ - Cơ hội trúng Ipad gen 5. Ưu đãi 50% học phí - Tặng kèm 4000 voucher trị giá 200K. Tham gia ngay: http://bit.ly/2J6tkPS</span>
+</span>
+<h5 class='time'>
+<i class='fa fa-clock-o'></i>
+      <span>11 tháng 07 lúc 00:55</span>
+</h5>
+</div>
+</a>
+</li>
+</ul>
+<ul class='notifications-container' id='noti-first'></ul>
+<ul class='notifications-container'>
+<li class='no-notification'>
+<div class='all-notification-detail'>
+<!-- %a{:href => '#'} Xem tất cả -->
+<a href='/notifications'>Xem tất cả</a>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+</div>
+<div class='col-xs col-sm col-md col-lg main-header-v4--content-c-header-courses-authenticate'>
+<style>
+  .btn-group.open .dropdown-toggle {
+    box-shadow: none;
+  }
+</style>
+<div class='btn-group user-dropdown'>
+<div aria-expanded='false' class='dropdown-toggle navbar-ava' data-toggle='dropdown' id='user_dropdown' style='display: flex;flex-direction: row;align-items:center' type='button'>
+<div class='ava-img' style='margin-right:10px'>
+<img class="user-avatar-medium" src="//static.edumall.vn/assets/avatar-87cb35c123fe2ae0f47eb6cb3726c3563a36807557a5c23801092e336e5b2e57.png" alt="Avatar 87cb35c123fe2ae0f47eb6cb3726c3563a36807557a5c23801092e336e5b2e57" />
+</div>
+<div class='ava-info hidden-md hidden-sm hidden-xs'>
+<p style='margin:auto'>
+<strong>Tran Long</strong>
+</p>
+</div>
+</div>
+<div aria-labelledby='dropdownMenuDivider' class='dropdown-menu dropdown-menu-right' id='user_dropdown_content' style='margin-right: -85px;'>
+<div class='user-dropdown-header'>
+<div class='user-dropdown-header-left'>
+<img class="user-avatar-medium" src="//static.edumall.vn/assets/avatar-87cb35c123fe2ae0f47eb6cb3726c3563a36807557a5c23801092e336e5b2e57.png" alt="Avatar 87cb35c123fe2ae0f47eb6cb3726c3563a36807557a5c23801092e336e5b2e57" />
+</div>
+<div class='user-dropdown-header-right'>
+<p class='name'>Tran Long</p>
+<div class='user-icon abs'>
+<a class='link' href='/users/view_profile'>
+<i class='fa fa-user'></i>
+</a>
+<a class='link' href='/users/edit_profile'>
+<i class='fa fa-pencil'></i>
+</a>
+</div>
+</div>
+</div>
+<div class='user-dropdown-links'>
+<a class='link' href='/home/my-course/learning'>Các khoá học của tôi</a>
+<!-- %a.link{:href => "/home/my-course/learning#wishlist"} Danh sách quan tâm -->
+<a class='link' href='/users/payment_history'>Lịch sử giao dịch</a>
+<a class='link' href='https://affiliate.edumall.vn?auth[provider]=edumall&amp;auth[token]=Kol5PCAR2A6XbQurpZm_Qg1528012986' target='_blank'>Edumall Affiliate</a>
+<a class='link' href='https://bit.ly/2ufORQJ' style='color: red' target='_blank'>Khuyến mãi %</a>
+</div>
+<div class='user-dropdown-logout'>
+<a class='btn btn-flat btn-logout' data-method='delete' href='https://static.edumall.vn/users/sign_out' rel='nofollow'>
+<i class='fa fa-power-off'></i>
+Đăng xuất
+</a>
+</div>
+</div>
+</div>
+
+</div>
+<div class='col-xs col-sm col-md col-lg main-header-v4--content-c-header-courses-menu'>
+<a href='#navRight' id='navrightButton'>
+<div class='humburger_right' style='height:54px;width:54px;text-align:center;    vertical-align:middle;line-height: 54px;border-left: 1px solid #ccc;color: #9b9b9b;'>
+<i class='fa fa-ellipsis-v' style=' vertical-align: middle;line-height: 54px;'></i>
+</div>
+</a>
+</div>
+</div>
+<div class='container main-header-v4--search-bar'>
+<form action='/search' class='form-search' method='GET' style='background-color: #f2f3f5 !important;'>
+<input class='gtm_search_bar main-header-v4--search-bar-input' name='q' placeholder='Tìm kiếm mọi thứ ...' style='outline:none;' type='text'>
+<button class='btn btn-search small' type='submit'></button>
+</form>
+</div>
+</div>
+</div>
+<aside id='navLeft'>
+<div>
+<ul class='navLeft-menu-page'>
+<li style='display:flex; align-items: center;padding-left: 16px; background-color: #f4f7f8;height:70px'>
+<div class='ava-img' style='display: flex;'>
+<img alt="student" style="width: 34px; height: 34px;margin-right:10px" src="//static.edumall.vn/assets/avatar-87cb35c123fe2ae0f47eb6cb3726c3563a36807557a5c23801092e336e5b2e57.png" />
+</div>
+<p class='info-name-mobile'>Tran Long</p>
+</li>
+<li id='show_menu_mobile'>
+<a style='display:flex; align-items: center;'>
+Các thể loại
+<i class='fa fa-angle-right' style='color: #9b9b9b; margin-left: auto;;'></i>
+</a>
+</li>
+<li class='active'>
+<a class='gtm_menu_main' href='/'>Trang chủ</a>
+</li>
+<li>
+<a class='gtm_menu_profile' href='/users/view_profile'>Trang cá nhân</a>
+</li>
+<li>
+<a class='gtm_menu_mycourse' href='/users/my_courses'>Khoá học của tôi</a>
+</li>
+<li>
+<a class='gtm_menu_cart' href='/cart'>Giỏ hàng</a>
+</li>
+<li>
+<a class='' href='/checking_cod'>Theo dõi đơn hàng</a>
+</li>
+<li>
+<a class='gtm_menu_activation' href='/new-cod/activate'>Kích hoạt khoá học</a>
+</li>
+<li>
+<a class='gtm_menu_care' href='/support'>Chăm sóc khách hàng</a>
+</li>
+<li>
+<a class='gtm_menu_teacher' href='https://bit.ly/2Kvkpx7' target='_blank'>Trở thành Giảng viên</a>
+</li>
+<li>
+<a class='gtm_menu_sharing' href='https://bit.ly/2FE2Nrs'>Góc chia sẻ</a>
+</li>
+<li>
+<a class='gtm_menu_affiliate' href='https://bit.ly/2Jbud9Q'>Chương trình Affiliate</a>
+</li>
+<li>
+<a class='gtm_menu_promo' href='https://bit.ly/2sFv5gG' style='color: red'>Khuyến mãi %</a>
+</li>
+</ul>
+<ul class='Danh-muc-mobile' style=' margin: -20px;'>
+<li id='show-navLeft-menu' style='background-color: #f4f7f8;height:54px; display: flex;align-items: center;'>
+<a style='display:flex;'>
+<div class='shape' style='width:20px; height:20px; display: flex; justify-content: center; align-items: center;margin-right:10px'>
+<i class='fa fa-angle-left' style='color: #9b9b9b'></i>
+</div>
+<span>Menu</span>
+</a>
+</li>
+<li>
+<a class='text' href='/courses/filter?categories[]=luyen-thi' style='display: flex; align-items: center'>
+<div class='img_div' style='width:24px; height:24px; float:left; margin-right: 10px; display: flex; justify-content: center;'>
+<img src='//static.edumall.vn/assets/category_home_page_v4/luyen_thi-ad8e7fe81262db6363ef6beb0d1bcdd62d85217802ff1ab40c0fe604b62e35eb.svg' style='color: #9b9b9b'>
+</div>
+<span>Luyện thi</span>
+</a>
+</li>
+<li>
+<a class='text' href='/courses/filter?categories[]=multimedia' style='display: flex; align-items: center'>
+<div class='img_div' style='width:24px; height:24px; float:left; margin-right: 10px; display: flex; justify-content: center;'>
+<img src='//static.edumall.vn/assets/category_home_page_v4/multimedia-7eaed5843fa78666ba495bbe05f59d857e6d53306a823ea92abb9a4e8c82451d.svg' style='color: #9b9b9b'>
+</div>
+<span>Multimedia</span>
+</a>
+</li>
+<li>
+<a class='text' href='/courses/filter?categories[]=phat-trien-ca-nhan' style='display: flex; align-items: center'>
+<div class='img_div' style='width:24px; height:24px; float:left; margin-right: 10px; display: flex; justify-content: center;'>
+<img src='//static.edumall.vn/assets/category_home_page_v4/phat_trien_ban_than-afcfcf8b53b59136cf6e96c37a486edebb1cfc99466c665cc323db09a3a0a152.svg' style='color: #9b9b9b'>
+</div>
+<span>Phát triển cá nhân</span>
+</a>
+</li>
+<li>
+<a class='text' href='/courses/filter?categories[]=tin-hoc-van-phong' style='display: flex; align-items: center'>
+<div class='img_div' style='width:24px; height:24px; float:left; margin-right: 10px; display: flex; justify-content: center;'>
+<img src='//static.edumall.vn/assets/category_home_page_v4/tin_hoc_van_phong-2db8505ff079b71004e3126a6805329ed92cc17ff5ab61049387ff979d280252.svg' style='color: #9b9b9b'>
+</div>
+<span>Tin học văn phòng</span>
+</a>
+</li>
+<li>
+<a class='text' href='/courses/filter?categories[]=am-nhac' style='display: flex; align-items: center'>
+<div class='img_div' style='width:24px; height:24px; float:left; margin-right: 10px; display: flex; justify-content: center;'>
+<img src='//static.edumall.vn/assets/category_home_page_v4/am_nhac-49b0f084d575703171920e6df090f11c727d1dc34d67750ea54f7d48d8303f8c.svg' style='color: #9b9b9b'>
+</div>
+<span>Âm nhạc</span>
+</a>
+</li>
+<li>
+<a class='text' href='/courses/filter?categories[]=marketing' style='display: flex; align-items: center'>
+<div class='img_div' style='width:24px; height:24px; float:left; margin-right: 10px; display: flex; justify-content: center;'>
+<img src='//static.edumall.vn/assets/category_home_page_v4/marketing-e38c3ddf4edb6f47872fd08f76fa99cfad60a51653b339e56a7782113e9d1c0f.svg' style='color: #9b9b9b'>
+</div>
+<span>Marketing</span>
+</a>
+</li>
+<li>
+<a class='text' href='/courses/filter?categories[]=life-style' style='display: flex; align-items: center'>
+<div class='img_div' style='width:24px; height:24px; float:left; margin-right: 10px; display: flex; justify-content: center;'>
+<img src='//static.edumall.vn/assets/category_home_page_v4/life_style-e0fa71a96c02232da4c9b5a38c0bd6c878f6673c98870b36ac3dda1a9fa0c713.svg' style='color: #9b9b9b'>
+</div>
+<span>Life style</span>
+</a>
+</li>
+<li>
+<a class='text' href='/courses/filter?categories[]=ngoai-ngu' style='display: flex; align-items: center'>
+<div class='img_div' style='width:24px; height:24px; float:left; margin-right: 10px; display: flex; justify-content: center;'>
+<img src='//static.edumall.vn/assets/category_home_page_v4/ngoai_ngu-591319186a001f52f44987300f8729083672af82fe522da5bb2680eb0fea5d36.svg' style='color: #9b9b9b'>
+</div>
+<span>Ngoại ngữ</span>
+</a>
+</li>
+<li>
+<a class='text' href='/courses/filter?categories[]=cong-nghe-thong-tin' style='display: flex; align-items: center'>
+<div class='img_div' style='width:24px; height:24px; float:left; margin-right: 10px; display: flex; justify-content: center;'>
+<img src='//static.edumall.vn/assets/category_home_page_v4/cong_nghe_thong_tin-4f1d660276d095c3db46df7da7fdafb68cf35ad28f4f6283a98c9e1df144d24a.svg' style='color: #9b9b9b'>
+</div>
+<span>Công nghệ thông tin</span>
+</a>
+</li>
+<li>
+<a class='text' href='/courses/filter?categories[]=the-thao-va-suc-khoe' style='display: flex; align-items: center'>
+<div class='img_div' style='width:24px; height:24px; float:left; margin-right: 10px; display: flex; justify-content: center;'>
+<img src='//static.edumall.vn/assets/category_home_page_v4/suc_khoe_the thao-efa12a8f8ceb7e46e9c4c23c249ee824aa60e0a3389087b5ecc9a49bd52f6ccd.svg' style='color: #9b9b9b'>
+</div>
+<span>Thể thao và sức khỏe</span>
+</a>
+</li>
+<li>
+<a class='text' href='/courses/filter?categories[]=thiet-ke' style='display: flex; align-items: center'>
+<div class='img_div' style='width:24px; height:24px; float:left; margin-right: 10px; display: flex; justify-content: center;'>
+<img src='//static.edumall.vn/assets/category_home_page_v4/thiet_ke-83b30e64168d8cfb7067446e33de14b301df3af24c4fb455e21c6f97a96b0d29.svg' style='color: #9b9b9b'>
+</div>
+<span>Thiết kế</span>
+</a>
+</li>
+<li>
+<a class='text' href='/courses/filter?categories[]=kinh-doanh-khoi-nghiep' style='display: flex; align-items: center'>
+<div class='img_div' style='width:24px; height:24px; float:left; margin-right: 10px; display: flex; justify-content: center;'>
+<img src='//static.edumall.vn/assets/category_home_page_v4/kinh_doanh_khoi_nghiep-9eac5caac3172edbc0bb8724ca9fd2968eb350afa87fc542b619d08280b55d76.svg' style='color: #9b9b9b'>
+</div>
+<span>Kinh doanh khởi nghiệp</span>
+</a>
+</li>
+<li>
+<a class='text' href='/courses/filter?categories[]=hoc-thuat' style='display: flex; align-items: center'>
+<div class='img_div' style='width:24px; height:24px; float:left; margin-right: 10px; display: flex; justify-content: center;'>
+<img src='//static.edumall.vn/assets/category_home_page_v4/hoc_thuat-fd01158a676b47e1997ef8caaa0c7836afc8da849a4726980b57b75dc1875a4d.svg' style='color: #9b9b9b'>
+</div>
+<span>Học thuật</span>
+</a>
+</li>
+<li>
+<a class='text' href='/courses/filter?categories[]=nuoi-day-con' style='display: flex; align-items: center'>
+<div class='img_div' style='width:24px; height:24px; float:left; margin-right: 10px; display: flex; justify-content: center;'>
+<img src='//static.edumall.vn/assets/category_home_page_v4/nuoi_day_con-f1d57f3af2baf101e35a37b96a83dfc6c75e4ad5c60e2003853520ee96bf43dc.svg' style='color: #9b9b9b'>
+</div>
+<span>Nuôi dạy con</span>
+</a>
+</li>
+<li>
+<a class='text' href='/courses/filter?categories[]=phong-thuy-nhan-tuong-hoc' style='display: flex; align-items: center'>
+<div class='img_div' style='width:24px; height:24px; float:left; margin-right: 10px; display: flex; justify-content: center;'>
+<img src='//static.edumall.vn/assets/category_home_page_v4/phong_thuy-ac4914f5c4a6b23f7e2cd2376e1727cd4aca0e6999974644f77458c144af2118.svg' style='color: #9b9b9b'>
+</div>
+<span>Phong thủy/Nhân tướng học</span>
+</a>
+</li>
+</ul>
+<div class='navLeft-authenticate'>
+<a class='btn btn-flat btn-logout-mobile' data-method='delete' href='https://static.edumall.vn/users/sign_out' rel='nofollow'>
+<i class='fa fa-power-off'></i>
+Đăng xuất
+</a>
+</div>
+</div>
+</aside>
+<!-- End #navLeft -->
+
+<aside id='navRight' style='position: absolute;'>
+<div>
+<ul class='navRight-menu-page'>
+<li class='active'>
+<a class='gtm_menu_main' href='/'>Trang chủ</a>
+</li>
+<li>
+<a class='gtm_menu_profile' href='/users/view_profile'>Trang cá nhân</a>
+</li>
+<li>
+<a class='gtm_menu_mycourse' href='/users/my_courses'>Khoá học của tôi</a>
+</li>
+<li>
+<a class='gtm_menu_cart' href='/cart'>Giỏ hàng</a>
+</li>
+<li>
+<a class='' href='/checking_cod'>Theo dõi đơn hàng</a>
+</li>
+<li>
+<a class='gtm_menu_activation' href='/new-cod/activate'>Kích hoạt khoá học</a>
+</li>
+<li>
+<a class='gtm_menu_care' href='/support'>Chăm sóc khách hàng</a>
+</li>
+<li>
+<a class='gtm_menu_teacher' href='https://bit.ly/2Kvkpx7' target='_blank'>Trở thành Giảng viên</a>
+</li>
+<li>
+<a class='gtm_menu_sharing' href='https://bit.ly/2FE2Nrs'>Góc chia sẻ</a>
+</li>
+<li>
+<a class='gtm_menu_affiliate' href='https://bit.ly/2Jbud9Q'>Chương trình Affiliate</a>
+</li>
+<li>
+<a class='gtm_menu_promo' href='https://bit.ly/2ufORQJ' style='color: red'>Khuyến mãi %</a>
+</li>
+</ul>
+<div class='divider'></div>
+</div>
+</aside>
+
+
+<div class='container-fluid'>
+<section class='row bg_main-color' id='section_404'>
+<div class='box_parent'>
+<div class='box_child'>
+<div class='logo'>
+<img alt="Edumall" style="height: 100px; margin-top: 40px" src="//static.edumall.vn/assets/logo_branding/flat_bo_cuc_doc_am_ban_trang-ba89b20c83093fbe93be2d5500d9b3ae404dac8fa0864189dc368316c450d888.svg" />
+</div>
+<div class='image'>
+<img alt="404" class="img-responsive" src="//static.edumall.vn/assets/edumall_v2/404/404-01658068e26cfd9417ed23181a0baf96eb418cf6a737707e5cd31957cc500ba4.png" />
+</div>
+<p class='lead'>
+Thành thật xin lỗi!<br>Không tìm thấy nội dung bạn trỏ đến.
+</p>
+<div class='cta'>
+<a class='btn btn-back' href='/courses'><i class='material-icons'>arrow_back</i>Quay lại
+</a>
+</div>
+</div>
+</div>
+</section>
+</div>
+<!-- End main -->
+<footer id='footer-page'>
+<div class='container'>
+<div class='row'>
+<div class='col-sm-6 col-md-5'>
+<img alt='Edumall.vn' class='img_logo' src='//static.edumall.vn/assets/edumall_v3/logo_edm_hor-b3e79c746af58bf7f6e884934027920e2433e36f2cce343c83bc5c2c17d23c33.svg'>
+<p>
+Trụ sở chính: Tầng 3 số 75 Phương Mai, Đống Đa, Hà Nội<br>MST: 0106291976 do Sở Kế hoạch và Đầu tư TP.Hà Nội cấp ngày 27 tháng 08 năm 2013<br>Đại diện: Ông Dương Hữu Quang
+</p>
+<a href='https://bit.ly/2J6hUvH' target='_blank'>
+<img alt='Edumall đã đăng ký với bộ công thương' src='//static.edumall.vn/assets/edumall_v3/register-02c5ca200a60b13122082b6751932e2b9e7b3e44acc7a3c3b3ec1c2fde631808.png'>
+</a>
+</div>
+<div class='hidden-sm hidden-xs col-md-3 col-lg-3'>
+<section id='introduce'>
+<ul>
+<li>
+<p class='title'>Về Edumall</p>
+</li>
+<li>
+<a href='/about'>Giới thiệu</a>
+</li>
+<li>
+<a href='/terms'>Điều khoản sử dụng</a>
+</li>
+<li>
+<a href='/policy'>Quy chế hoạt động</a>
+</li>
+<li>
+<a href='/security_policy'>Chính sách bảo mật</a>
+</li>
+<li>
+<a href='https://bit.ly/2Jbud9Q'>Chương trình Affiliate</a>
+</li>
+</ul>
+<ul>
+<li>
+<p class='title'>Thông tin</p>
+</li>
+<li>
+<a href='/faq'>Câu hỏi thường gặp</a>
+</li>
+<li>
+<a href='/dispute_solution'>Giải quyết tranh chấp</a>
+</li>
+<li>
+<a href='/faq#faq_no_9'>Chính sách hoàn học phí</a>
+</li>
+</ul>
+</section>
+</div>
+<div class='col-sm-6 col-md-4 col-lg-3'>
+<section class='visible-xs-block' id='support'>
+<a class='btn btn-default' href='/support' role='button'>Hỗ trợ và chăm sóc khách hàng</a>
+</section>
+<section id='contact_info'>
+<div class='contact'>
+<ul>
+<li>
+<div class='media'>
+<div class='media-left'>
+<img alt='1800.6816' class='media-object' src='//static.edumall.vn/assets/edumall_v3/icons/phone-round-a65660512a1493a9df42519554ed48c8f6465ea313fc2c0efafd2a0dd0c52416.svg'>
+</div>
+<div class='media-body'>
+<h4 class='media-heading'>1800.6816</h4>
+<small>
+Thứ 2 - Thứ 6: 09:00 - 19:00
+<br>
+Thứ 7: 09:00 - 12:00
+</small>
+</div>
+</div>
+</li>
+<li>
+<div class='media'>
+<div class='media-left media-middle'>
+<img alt='cskh@edumal.vn' class='media-object' src='//static.edumall.vn/assets/edumall_v3/icons/email-f880c93551aa3a0d63702785d1f2d63173017a3b4e7b3fdaa632f458e986b657.svg'>
+</div>
+<div class='media-body'>
+<h4 class='media-heading'>cskh@edumall.vn</h4>
+</div>
+</div>
+<h4 class='support_techie'>Mọi vấn đề kĩ thuật vui lòng liên hệ</h4>
+<div class='media'>
+<div class='media-left media-middle'>
+<img alt='cskh@edumal.vn' class='media-object' src='//static.edumall.vn/assets/edumall_v3/icons/email-f880c93551aa3a0d63702785d1f2d63173017a3b4e7b3fdaa632f458e986b657.svg'>
+</div>
+<div class='media-body'>
+<a class='email_address' href='mailto:kythuat@edumall.vn' target='_top'>kythuat@edumall.vn</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class='download'>
+<div class='download-app'>
+<div class='media'>
+<div class='media-left'>
+<a href='/mobile'>
+<img class="media-object" alt="Edumall QR code" style="width: 50px" src="//static.edumall.vn/assets/advert/qr_code-8892d9a4b86727d03a9e916c85eacdc82853e0c1d01d3a2d0e131a0438c9ff7a.png" />
+</a>
+</div>
+<div class='media-body media-mid'>
+Tải ngay App Edumall
+</div>
+</div>
+</div>
+<div class='download-store'>
+<a href='https://itunes.apple.com/us/app/edumall-si%C3%AAu-th%E1%BB%8B-kho%C3%A1-h%E1%BB%8Dc-tr%E1%BB%B1c-tuy%E1%BA%BFn/id1211655422?l=vi&amp;ls=1&amp;mt=8'>
+<img alt='Edumall on App Store' src='//static.edumall.vn/assets/edumall_v3/App_Store-25178aeef6eb6b83b96f5f2d004eda3bffbb37122de64afbaef7107b384a4132.svg'>
+</a>
+<a href='https://play.google.com/store/apps/details?id=vn.edu.topica.edumall'>
+<img alt='Edumall on Google Play' src='//static.edumall.vn/assets/edumall_v3/google-play-badge-267379466168c884e76a9e658289215a591c344e7ad94314de9e21ef11cf26c2.svg'>
+</a>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+<section class='col-xs-12' id='footer_copyrights'>
+<div class='icon-social'>
+<a href='https://www.facebook.com/Edumall.vn'>
+<img alt='icon-fb' src='//static.edumall.vn/assets/edumall_v3/icons/facebook-round-2f01f52f73e2b7e9df9e6db8a2d908c28de0b7d59c41bd372a56025fea96abfa.svg'>
+</a>
+<a href='https://www.youtube.com/channel/UCB_VcFxP7DeZR8Xfpqf9x5A'>
+<img alt='icon-youtobe' src='//static.edumall.vn/assets/edumall_v3/icons/youtube-round-73317b6b8b84c77f96b14b998c678984a2e7e39677be8d9f744a80f6c0c42778.svg'>
+</a>
+</div>
+<p class='copyright'>© 2016 Edumall. All rights reserved</p>
+</section>
+</footer>
+
+<script crossorigin='anonymous' integrity='sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=' src='//code.jquery.com/jquery-2.2.4.min.js'></script>
+<script src="//static.edumall.vn/assets/home_edumall_v2-bbec97373ea988dd4c03dae9b3bcff40c2919a160408c00c1f5a5c6134485528.js"></script>
+<noscript id='asyncronize-font'>
+<link href='//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css' rel='stylesheet' type='text/css'>
+</noscript>
+<script>
+  var loadAsyncronizeFont = function() {
+    var addFontNode = document.getElementById("asyncronize-font");
+    var replacement = document.createElement("div");
+    replacement.innerHTML = addFontNode.textContent;
+    document.body.appendChild(replacement)
+    addFontNode.parentElement.removeChild(addFontNode);
+  };
+  var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+      webkitRequestAnimationFrame || msRequestAnimationFrame;
+  if (raf) raf(function() { window.setTimeout(loadAsyncronizeFont, 0); });
+  else window.addEventListener('load', loadAsyncronizeFont);
+</script>
+</body>
+</html>
+
+<script src="//static.edumall.vn/assets/application-f559f5944542918dc193b14aa20c0f414d6a0624129554b2ad5e5013e0a7f2aa.js"></script>
+<script src='//cdn.jsdelivr.net/jquery.slick/1.5.9/slick.min.js' type='text/javascript'></script>
+<script>
+  $(document).ready(function() {
+    var list_nav = $('.featured-courses-sm .list ul');
+    var course_nav = $('#courses_swipe');
+    list_nav.slick({
+      dots: true,
+      infinite: false,
+      mobileFirst: true,
+      verticalSwiping: false,
+      speed: 300,
+      slidesToShow: 1,
+      centerMode: false,
+      variableWidth: true,
+      swipe: false
+    });
+    course_nav.slick({
+      dots: true,
+      infinite: false,
+      mobileFirst: true,
+      verticalSwiping: false,
+      speed: 300,
+      slidesToShow: 1,
+      centerMode: false,
+      arrows: true,
+      adaptiveHeight: true
+    });
+  
+    swipeDetect(document.getElementById('detect_swipe'), function(dir) {
+      if (dir == 'left') {
+        list_nav.find('.slick-next').trigger('click');
+        course_nav.find('.slick-next').trigger('click');
+      } else if (dir == 'right') {
+        list_nav.find('.slick-prev').trigger('click');
+        course_nav.find('.slick-prev').trigger('click');
+      }
+    });
+  
+    course_nav.on('swipe', function(event, slick, direction) {
+      if (direction == 'left') {
+        list_nav.find('.slick-next').trigger('click');
+      } else {
+        list_nav.find('.slick-prev').trigger('click');
+      }
+    });
+  
+    $('.featured-courses-sm .courses a').unbind('click');
+  });
+</script>
+
+<script src='https://crosssellads.edumall.vn/scripts/crosssell.js'></script>
+<script>
+  Crosssell.init({"show_page": '/404' }, {}, 'https://crosssellads.edumall.vn/api/banner/crosssell');
+</script>
+
+<script src='//www.googleadservices.com/pagead/conversion.js' type='text/javascript'></script>
+<noscript>
+<div style='display:inline;'>
+<img alt='' height='1' src='//googleads.g.doubleclick.net/pagead/viewthroughconversion/945443627/?value=0&amp;amp;guid=ON&amp;amp;script=0' style='border-style:none;' width='1'>
+</div>
+</noscript>
+<noscript id='asyncronize-font'>
+<link href='//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css' rel='stylesheet' type='text/css'>
+</noscript>
+<script>
+  var loadAsyncronizeFont = function() {
+    var addFontNode = document.getElementById("asyncronize-font");
+    var replacement = document.createElement("div");
+    replacement.innerHTML = addFontNode.textContent;
+    document.body.appendChild(replacement)
+    addFontNode.parentElement.removeChild(addFontNode);
+  };
+  var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+      webkitRequestAnimationFrame || msRequestAnimationFrame;
+  if (raf) raf(function() { window.setTimeout(loadAsyncronizeFont, 0); });
+  else window.addEventListener('load', loadAsyncronizeFont);
+</script>
+</body>
+</html>

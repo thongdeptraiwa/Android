@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ASM.ASMPhongBan">
+
+<!--    <Button-->
+<!--        android:id="@+id/btnNhanSu"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Nhân Sự"-->
+<!--        android:backgroundTint="#FFFFFF"-->
+<!--        android:textColor="#000000"-->
+<!--        android:textStyle="bold"-->
+<!--        android:textSize="25sp"-->
+<!--        android:gravity="left"-->
+<!--        android:drawableLeft="@drawable/baseline_maps_home_work_24"/>-->
+<!--    <Button-->
+<!--        android:id="@+id/btnHanhChinh"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Hành Chính"-->
+<!--        android:backgroundTint="#FFFFFF"-->
+<!--        android:textColor="#000000"-->
+<!--        android:textStyle="bold"-->
+<!--        android:textSize="25sp"-->
+<!--        android:gravity="left"-->
+<!--        android:drawableLeft="@drawable/baseline_maps_home_work_24"/>-->
+<!--    <Button-->
+<!--        android:id="@+id/btnDaoTao"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Đào Tạo"-->
+<!--        android:backgroundTint="#FFFFFF"-->
+<!--        android:textColor="#000000"-->
+<!--        android:textStyle="bold"-->
+<!--        android:textSize="25sp"-->
+<!--        android:gravity="left"-->
+<!--        android:drawableLeft="@drawable/baseline_maps_home_work_24"/>-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/textView35"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="  Nhân Sự"-->
+<!--        android:textStyle="bold"-->
+<!--        android:textSize="25sp"-->
+<!--        android:paddingLeft="20dp"-->
+<!--        android:drawableLeft="@drawable/baseline_maps_home_work_24"-->
+<!--        />-->
+<!--    <TextView-->
+<!--        android:id="@+id/textView33"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="  Hành Chính"-->
+<!--        android:textStyle="bold"-->
+<!--        android:textSize="25sp"-->
+<!--        android:paddingLeft="20dp"-->
+<!--        android:drawableLeft="@drawable/baseline_maps_home_work_24"-->
+<!--        />-->
+<!--    <TextView-->
+<!--        android:id="@+id/textView34"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="  Đào Tạo"-->
+<!--        android:textStyle="bold"-->
+<!--        android:textSize="25sp"-->
+<!--        android:paddingLeft="20dp"-->
+<!--        android:drawableLeft="@drawable/baseline_maps_home_work_24"-->
+<!--        />-->
+
+    <ListView
+        android:id="@+id/lv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btnPopupMenu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Popup Menu" />
+    <TextView
+        android:id="@+id/txtPopupMenu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Chỗ PopupMenu xuất hiện"
+        android:gravity="center"
+        android:textSize="30sp"
+        />
+
+
+</LinearLayout>
