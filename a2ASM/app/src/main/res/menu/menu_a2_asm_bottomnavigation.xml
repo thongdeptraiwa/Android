@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mQLSP"
+        android:title="Quản lý sản phẩm"
+        android:icon="@drawable/approval"
+        />
+    <item
+        android:id="@+id/mGioiThieu"
+        android:title="Giới thiệu"
+        android:icon="@drawable/icon_all_inclusive"
+        />
+    <item
+        android:id="@+id/mCaiDat"
+        android:title="Cài đặt"
+        android:icon="@drawable/icon_settings"
+        />
+</menu>

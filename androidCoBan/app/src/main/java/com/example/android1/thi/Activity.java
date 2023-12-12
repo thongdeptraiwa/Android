@@ -168,7 +168,7 @@ public class Activity extends AppCompatActivity {
         Collections.sort(ds, comp);
     }
     public void chuyenActivity(){
-        Intent intent = new Intent(Activity.this, Activity2.class);
+        Intent intent = new Intent(Activity.this, MainActivity.class);
         startActivity(intent);
     }
 }

@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import com.example.android1.MainActivity;
+import com.example.android1.MainAndroid1;
 import com.example.android1.R;
 
 public class ASMQuanly extends AppCompatActivity {
@@ -29,7 +29,7 @@ public class ASMQuanly extends AppCompatActivity {
             @Override
             public void onClick(View view) {
 
-                Intent intent = new Intent(ASMQuanly.this, MainActivity.class);
+                Intent intent = new Intent(ASMQuanly.this, MainAndroid1.class);
                 startActivity(intent);
             }
         });

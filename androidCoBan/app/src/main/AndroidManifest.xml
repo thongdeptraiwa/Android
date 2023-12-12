@@ -11,68 +11,92 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Android1"
-        tools:targetApi="31">
+        tools:targetApi="33">
         <activity
-            android:name=".thi.Activity2"
-            android:exported="false" />
+            android:name=".A2ASM.TrangChu"
+            android:exported="true" />
+        <activity
+            android:name=".A2Lab2.A2_Lab2_recyclerview"
+            android:exported="true" />
+        <activity
+            android:name=".A2ASM.QuanLySanPham"
+            android:exported="true" />
+        <activity
+            android:name=".A2ASM.SignUp"
+            android:exported="true" />
+        <activity
+            android:name=".A2ASM.Login"
+            android:exported="true" />
+        <activity
+            android:name=".A2LAB1.A2lab1"
+            android:exported="true" />
+        <activity
+            android:name=".MainAndroid1"
+            android:exported="true" />
+        <activity
+            android:name=".thi.MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MainAndroid2"
+            android:exported="true" />
         <activity
             android:name=".thi.Activity"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".LAB7.Lab7_intent2"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".LAB7.Lab7"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".ASM.ASMNhanVien"
-            android:exported="false"
+            android:exported="true"
             android:parentActivityName=".ASM.ASMQuanly" />
         <activity
             android:name=".ASM.ASMPhongBan"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".ASM.ASMQuanly"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".ASM.ASMDangKi"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".ASM.ASMDangNhap"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".ASM.ASM1"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".LAB4.Lab4B3A2"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".LAB4.Lab4B3A1"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".BAI3LA.Bai3la"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".LAB4.Lab4B2A2"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".LAB4.Lab4B2A1"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".LAB4.Lab4Menu"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".LAB4.Lab4B1A2"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".LAB3.Lab3"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".LAB2.Lab2"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".LAB4.Lab4B1A1"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
