@@ -51,22 +51,21 @@ public class Thi_SanPhamADT_Recyclerview extends RecyclerView.Adapter<Thi_SanPha
 
     @Override
     public void onBindViewHolder(@NonNull ViewHolder holder, int i) {
-//        //hiển thị
+        //hiển thị
         holder.tvName.setText(ds.get(i).getName());
 
-//        //img
+        //img
         if(ds.get(i).getMa()==1){
             holder.img.setImageResource(R.drawable.food1);
         }else{
             holder.img.setImageResource(R.drawable.food2);
         }
 
-
-            //thêm , trong giá
-            NumberFormat formatter = new DecimalFormat("#,###");
-            int myNumber = ds.get(i).getGia();
-            String formattedNumber = formatter.format(myNumber);
-            holder.tvGia.setText(formattedNumber +" VND ");
+        //thêm , trong giá
+        NumberFormat formatter = new DecimalFormat("#,###");
+        int myNumber = ds.get(i).getGia();
+        String formattedNumber = formatter.format(myNumber);
+        holder.tvGia.setText(formattedNumber +" VND ");
         //holder.tvSL.setText("- SL: "+ds.get(i).getSl());
 
         holder.imgXoa.setOnClickListener(new View.OnClickListener() {

@@ -43,8 +43,6 @@ public class main extends AppCompatActivity {
         floatAdd=findViewById(R.id.floatAdd);
 
 
-
-
         capNhatLayout();
 
         //nhan floatAdd

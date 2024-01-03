@@ -99,7 +99,6 @@ public class Lab7 extends AppCompatActivity {
                                 }
                         } else {
                             Toast.makeText(Lab7.this, "lắng nghe failed", Toast.LENGTH_SHORT).show();
-
                         }
                     }
                 });

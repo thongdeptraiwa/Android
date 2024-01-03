@@ -40,6 +40,7 @@ public class MainActivity extends AppCompatActivity {
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         getSupportActionBar().setHomeAsUpIndicator(R.drawable.icon_menu);
 
+        //fragment mặc định khi phải app
         getSupportFragmentManager().beginTransaction().replace(R.id.linearLayout,new fragment_quanlysanpham()).commit();
 
         //nhan navigationView

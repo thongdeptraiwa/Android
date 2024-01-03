@@ -22,8 +22,6 @@ public class fragment_gioithieu_f1 extends Fragment {
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment1,container,false);
         tv = view.findViewById(R.id.tv);
-
-
         return view;
     }
 

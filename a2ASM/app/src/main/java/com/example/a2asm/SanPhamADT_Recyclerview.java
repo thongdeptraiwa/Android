@@ -47,13 +47,13 @@ public class SanPhamADT_Recyclerview extends RecyclerView.Adapter<SanPhamADT_Rec
 
     @Override
     public void onBindViewHolder(@NonNull ViewHolder holder, int i) {
-//        //hiển thị
+        //hiển thị
         holder.tvName.setText(ds.get(i).getName());
-            //thêm , trong giá
-            NumberFormat formatter = new DecimalFormat("#,###");
-            int myNumber = ds.get(i).getGia();
-            String formattedNumber = formatter.format(myNumber);
-            holder.tvGia.setText(formattedNumber +" VND ");
+        //thêm , trong giá
+        NumberFormat formatter = new DecimalFormat("#,###");
+        int myNumber = ds.get(i).getGia();
+        String formattedNumber = formatter.format(myNumber);
+        holder.tvGia.setText(formattedNumber +" VND ");
         holder.tvSL.setText("- SL: "+ds.get(i).getSl());
 
         holder.tvXoa.setOnClickListener(new View.OnClickListener() {

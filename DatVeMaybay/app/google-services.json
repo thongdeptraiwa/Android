@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "984218271222",
+    "project_id": "vemaybay-ba277",
+    "storage_bucket": "vemaybay-ba277.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984218271222:android:cb08feff1e1c7482af9bd7",
+        "android_client_info": {
+          "package_name": "com.example.datvemaybay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBifqyexcoD_jR6ur_cCN6yQ-imdlDSegQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
